@@ -1,5 +1,5 @@
 .body {
-  background-color: rgb(98, 175, 46);
+  background-color: rgb(203, 206, 201);
 }
 
 .form_container {
@@ -8,7 +8,7 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: rgb(143, 212, 97);
+  background: rgb(203, 206, 201);
 }
 .user_form {
   display: flex;
@@ -22,7 +22,7 @@
   width: 100px;
   margin-left: 100px;
   color: rgb(12, 12, 12);
-  background-color: coral;
+  background-color: rgb(255, 80, 95);
 }
 
 .mail {

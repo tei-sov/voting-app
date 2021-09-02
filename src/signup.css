@@ -8,7 +8,7 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: rgb(143, 212, 97);
+  background: rgb(203, 206, 201);
 }
 
 .signup_form {
@@ -24,7 +24,7 @@
   border-radius: 8px;
   width: 100px;
   margin-left: 100px;
-  background-color: coral;
+  background-color: rgb(255, 80, 95);
 }
 
 .name {
@@ -49,4 +49,10 @@
 
 .account {
   margin-top: 10px;
+}
+
+.signup {
+  align-content: center;
+  justify-content: center;
+  padding-top: 5px;
 }

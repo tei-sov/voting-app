@@ -33,7 +33,7 @@ class Signup extends Component {
           </Route>
 
           <button type="submit" className="signupbut">
-            Sign Up
+            <h6 className="signup">Sign Up</h6>
           </button>
         </form>
       </div>
