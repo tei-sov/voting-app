@@ -19,6 +19,7 @@
   margin-top: 10px;
   border-radius: 8px;
   border: none;
+  height: 30px;
   width: 100px;
   margin-left: 100px;
   color: rgb(12, 12, 12);
@@ -35,4 +36,11 @@
 
 .account {
   text-align: center;
+}
+
+.log {
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+  padding-top: 3px;
 }

@@ -1,10 +1,8 @@
 import React from "react";
+import "./navbar.css";
+
 function Navbar() {
-  return (
-    <div>
-      <h1 className="navbar">VOTING SITE</h1>
-    </div>
-  );
+  return <div className="navbar"></div>;
 }
 
 export default Navbar;

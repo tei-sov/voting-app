@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Route, Link } from "react-router-dom";
 import "./login.css";
 
 class login extends Component {
@@ -16,11 +15,10 @@ class login extends Component {
             Password
           </label>
           <input type="text" className="password" />
-          <Route>
-            <button type="submit" className="submit_btn">
-              <Link to="/homepage">Log In</Link>
-            </button>
-          </Route>
+
+          <button type="submit" className="submit_btn">
+            <h6 className="log">Log In</h6>
+          </button>
         </form>
       </div>
     );
